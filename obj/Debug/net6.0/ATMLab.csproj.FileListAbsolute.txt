@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\bin\Debug\net6.0\ATMLab.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\bin\Debug\net6.0\ATMLab.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\bin\Debug\net6.0\ATMLab.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\bin\Debug\net6.0\ATMLab.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\bin\Debug\net6.0\ATMLab.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\refint\ATMLab.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ATMLab.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\ATMLab\obj\Debug\net6.0\ref\ATMLab.dll
